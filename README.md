@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, Django, JavaScript, HTML and CSS.
 
 # Bem-vindo ao meu perfil! *(pt-br)*
-- 👋 Oi, eu sou Heitor Lisboa!
+- 👋 Oi, eu sou o Heitor Lisboa!
 - 👀 Tenho interesse em jogos, musica e, é claro, programação!
 - 🌱 Atualmente estou aprendendo Python, Django, JavaScript, HTML e CSS.
 
