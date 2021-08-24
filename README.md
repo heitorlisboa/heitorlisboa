@@ -1,3 +1,4 @@
+# Welcome to my profile!
 - 👋 Hi, I’m Heitor Lisboa!
 - 👀 I’m interested in games, music and, of course, programming!
 - 🌱 I’m currently learning Python, Django, JavaScript, HTML and CSS.
