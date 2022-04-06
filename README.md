@@ -19,7 +19,7 @@ Sou Heitor Lisboa, desenvolvedor front-end e aspirante a desenvolvedor full-stac
   Note 3: The `<BadgeStyle>` valid values can be found on [Shields.io](https://shields.io) at the *Styles* section
 -->
 
-Estou cursando Engenharia de Software na UniCesumar, estudando pela Alura e por diversos conteúdos gratuitos internet afora. **Também estou à procura da minha primeira vaga de emprego**, seja como dev junior ou estagiário.
+Estou cursando Engenharia de Software na UniCesumar, estudando pela Alura e por diversos conteúdos gratuitos internet afora. Também estou à procura da minha primeira vaga como dev junior ou como estagiário.
 
 Atualmente, estou voltando meus estudos para front-end, back-end e DevOps.
 
