@@ -1,5 +1,5 @@
 # Bem-vindo ao meu perfil! 👋
-Sou Heitor Lisboa, desenvolvedor front-end e aspirante a desenvolvedor full-stack com experiência em:
+Sou Heitor Lisboa, desenvolvedor full-stack com experiência em:
 
 ![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -9,8 +9,9 @@ Sou Heitor Lisboa, desenvolvedor front-end e aspirante a desenvolvedor full-stac
 ![CSS3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-white?style=for-the-badge&logo=sass&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
-![Elixir](https://img.shields.io/badge/elixir-white?style=for-the-badge&logo=elixir&logoColor=black)
-![Phoenix](https://img.shields.io/badge/phoenix-black?style=for-the-badge)
+![Express](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
+
 
 <!--
   Badge URL syntax: https://img.shields.io/badge/<Name>-<BackgroundColor>?style=<BadgeStyle>&logo=<Logo>&logoColor=<LogoColor>
@@ -19,7 +20,7 @@ Sou Heitor Lisboa, desenvolvedor front-end e aspirante a desenvolvedor full-stac
   Note 3: The `<BadgeStyle>` valid values can be found on [Shields.io](https://shields.io) at the *Styles* section
 -->
 
-Estou cursando Engenharia de Software na UniCesumar, estudando pela Alura e por diversos conteúdos gratuitos internet afora. Também estou à procura da minha primeira vaga como dev junior ou como estagiário.
+Estou cursando Engenharia de Software na UniCesumar, venho estudando pela [Alura](https://www.alura.com.br) por um ano, e agora estou estudando pelo [Ignite](https://www.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br) e por diversos conteúdos gratuitos internet afora. Também estou à procura da minha primeira vaga como dev junior ou como estagiário.
 
 Atualmente, estou voltando meus estudos para front-end, back-end e DevOps.
 
