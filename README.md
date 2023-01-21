@@ -3,11 +3,11 @@ Sou Heitor Lisboa, desenvolvedor full-stack com experiência em:
 
 ![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/sass-white?style=for-the-badge&logo=sass&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript/javascript-white?style=for-the-badge&logo=typescript&logoColor=black)
+![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind%20css&logoColor=white)
+![React Native](https://img.shields.io/badge/react%20native-white?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
@@ -21,8 +21,6 @@ Sou Heitor Lisboa, desenvolvedor full-stack com experiência em:
 -->
 
 Estou cursando Engenharia de Software na UniCesumar, venho estudando pela [Alura](https://www.alura.com.br) por um ano, e agora estou estudando pelo [Ignite](https://www.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br) e por diversos conteúdos gratuitos internet afora. Também estou à procura da minha primeira vaga como dev junior ou como estagiário.
-
-Atualmente, estou voltando meus estudos para front-end, back-end e DevOps.
 
 Você pode me encontrar em:
 
